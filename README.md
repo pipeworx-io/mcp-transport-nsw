@@ -4,7 +4,7 @@ Journey planning, live departures, service alerts and commuter car-park
 occupancy for Sydney and the whole of New South Wales — trains, metro, buses,
 ferries and light rail.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1684+ live data sources.
 
 **Requires an API key** — free and self-service at
 <https://opendata.transport.nsw.gov.au/>.
@@ -80,7 +80,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1679+ data sources. The
+Both URLs reach the same gateway and the same 1684+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

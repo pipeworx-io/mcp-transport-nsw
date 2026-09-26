@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/transport-nsw",
   "title": "Transport Nsw",
   "description": "Transport for NSW MCP — journey planning, live departures, service alerts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/transport-nsw",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-transport-nsw",
