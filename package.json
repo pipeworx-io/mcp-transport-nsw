@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-transport-nsw",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Transport for NSW MCP — journey planning, live departures, service alerts and commuter car-park occupancy for Sydney and the whole of New South Wales: trains, metro, buses, ferries and light rail.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "transport-nsw",
     "gatewaySlug": "transport-nsw",
-    "sourceHash": "v1-e128b581b69f6572845150b67130514f8ddf03325dd0073541cd73d5316a4f54",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-b4f72d5e50038d569a278b40e055bac187d57f5cd74c08a7b8c1c5fd01d2ea46",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
